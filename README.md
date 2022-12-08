@@ -1,3 +1,6 @@
 Meu primeiro sistema no GIT.
-AAAAAAAAAAAAAAAAAAAAAAAAA
-Alteração feita no master
+
+Alteração qualquer
+
+uma nova linha
+mais uma linha
